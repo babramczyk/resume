@@ -89,6 +89,7 @@ li {
 .header__contact-row {
   display: flex;
   align-items: flex-end;
+  height: 22px;
 }
 
 .header__contact-text {
@@ -107,6 +108,12 @@ li {
 .header__contact-icon--linked-in {
   width: 20px;
   height: 20px;
+}
+
+.header__contact-icon--github {
+  width: 18px;
+  height: 18px;
+  margin-left: 10px;
 }
 
 .info-section {
