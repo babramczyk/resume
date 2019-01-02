@@ -26,6 +26,13 @@ body {
   max-width: 7.7in;
 }
 
+@page {
+  padding: 0;
+  margin: 1mm;
+  border: none;
+  border-collapse: collapse;
+}
+
 h2 {
   font-size: 24px;
   text-align: center;
