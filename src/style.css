@@ -20,7 +20,7 @@ body {
   align-items: stretch;
 
   padding: 0;
-  margin: 0 auto;
+  margin: .5in auto 0;
 
   /* 8.5 paper width -.4 on each side for standard Chrome print margins */
   max-width: 7.7in;
